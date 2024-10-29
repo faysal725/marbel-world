@@ -1,6 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Marbel world
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Live Link: https://marbel-world.vercel.app/?vercelToolbarCode=dzomsHbmNwpFLeR
+
+## Technologies
+  #Nuxt3
+  #Three JS
 
 ## Setup
 
