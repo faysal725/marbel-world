@@ -1,6 +1,6 @@
 # Marbel world
 
-## Live Link: https://marbel-world.vercel.app/?vercelToolbarCode=dzomsHbmNwpFLeR
+## Live Link: https://marbel-world.vercel.app/
 
 ## Technologies
   #Nuxt3
